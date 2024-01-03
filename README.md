@@ -1,1 +1,1 @@
-# TimeSense
+# TimeSense is Designed as a solution to the social media distraction often encountered by students, this application provides users with a platform to monitor and analyze their daily app usage, offering insights into productivity levels. Users can set reminders, especially for social media apps, to cultivate a mindful approach to time spent. By categorizing applications and analyzing time allocations, individuals can make informed decisions about optimizing their daily routines.
